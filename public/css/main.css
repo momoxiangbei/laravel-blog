@@ -1,0 +1,13 @@
+#default{width: 1050px;}
+h4{width: 400px;text-indent: 200px;}
+.login_width{ width:400px;margin:auto;position: relative;top: 200px;}
+.login_width div{margin: 20px;}
+.pages_index_new{position: absolute;left: 160px;top: 70px;}
+#pages_index ul{display: block;clear: both;list-style:none;width:1050px;margin:auto;position: relative;top: 70px;}
+#pages_index li{ float: left;overflow: hidden;}
+#li1{width:900px;text-indent: 10px;}
+#li2{width:70px;text-align: center;}
+#li3{width:70px;text-align: center;}
+#pages_links{position: relative;top: 30px;}
+
+
